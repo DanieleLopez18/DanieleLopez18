@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas Vindas ao meu perfil 💙
 
-<!--
-**DanieleLopez18/DanieleLopez18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Daniele López
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagens JavaScript
+- Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos
+  
+### Voce entra em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+lopezdaniele729@gmail.com
+
+@_.lopezzs
+
+![](https://media.tenor.com/B80MQLJXvpsAAAAM/gavin-meme.gif)
